@@ -1,0 +1,13 @@
+ARCHIVOS A ELIMINAR LUEGO DE TERMINAR EL INFORME:
+- *.ipynb
+- *.csv
+- *.png
+- *.out
+
+ARCHIVOS A GUARDAR POR CADA CARPETA DEL TRABAJO:
+- [nombre-metodo].c
+- [nombre-metodo]-promedio.c
+ej: iter1.c iter1-promedio.c
+- Makefile // Con la ejecucion del make para obtener los .out
+O SINO
+Segunda alternativa: la que menciona el archivo 'leer'..
