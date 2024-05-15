@@ -1,4 +1,0 @@
-Este makefile ejecuta todos los .c que hay en la carpeta /src
-Y manda los .out a la carpeta /build
-Evita cualquier proceso engorroso y solo se debe ejecutar una unica vez.
-PREGUNTAR AL PROFE.
