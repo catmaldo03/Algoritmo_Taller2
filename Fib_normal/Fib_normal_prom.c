@@ -1,3 +1,7 @@
+/*
+ * @author Catalina Maldonado y Ariel Lopez
+ * metodo-Memorizacion
+ * */
 #include <stdio.h>
 #include <time.h>
 #define N 90
@@ -16,7 +20,7 @@ int main()
         {
             start = clock();
 
-            for (int i = 0; i <= k; ++i)
+            for (int i = 0; i <= k; i++)
             {
                 if (i == 0)
                     array[i] = 0;
